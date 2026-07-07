@@ -1,4 +1,4 @@
-# terraform-aws-mcaf-cloudfront
+# terraform-aws-mcaf-cloudfront-s3-origin-s3-origin
 
 Terraform to create a CloudFront distribution with a S3 origin bucket and Okta authentication.
 

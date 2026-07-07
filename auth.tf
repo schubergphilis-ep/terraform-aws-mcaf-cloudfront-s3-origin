@@ -62,7 +62,7 @@ data "aws_iam_policy_document" "authentication" {
 module "authentication" {
   count = length(local.create_auth_lambda)
 
-  source  = "schubergphilis/mcaf-lambda/aws"
+  source  = "schubergphilis-ep/mcaf-lambda/aws"
   version = "~> 3.0.0"
 
   region      = local.global_region

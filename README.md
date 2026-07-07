@@ -26,8 +26,8 @@ As opposed to other MCAF modules, this module does not provide a specific resour
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_authentication"></a> [authentication](#module\_authentication) | schubergphilis/mcaf-lambda/aws | ~> 3.0.0 |
-| <a name="module_origin_bucket"></a> [origin\_bucket](#module\_origin\_bucket) | schubergphilis/mcaf-s3/aws | ~> 3.0.0 |
+| <a name="module_authentication"></a> [authentication](#module\_authentication) | schubergphilis-ep/mcaf-lambda/aws | ~> 3.0.0 |
+| <a name="module_origin_bucket"></a> [origin\_bucket](#module\_origin\_bucket) | schubergphilis-ep/mcaf-s3/aws | ~> 3.0.0 |
 
 ## Resources
 

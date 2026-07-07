@@ -46,7 +46,7 @@ data "aws_iam_policy_document" "origin_bucket" {
 }
 
 module "origin_bucket" {
-  source  = "schubergphilis/mcaf-s3/aws"
+  source  = "schubergphilis-ep/mcaf-s3/aws"
   version = "~> 3.0.0"
 
   region                  = var.region

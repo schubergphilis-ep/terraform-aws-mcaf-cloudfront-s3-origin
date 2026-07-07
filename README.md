@@ -1,9 +1,8 @@
-# terraform-aws-mcaf-cloudfront-s3-origin-s3-origin
+# terraform-aws-mcaf-cloudfront-s3-origin
 
-Terraform to create a CloudFront distribution with a S3 origin bucket and Okta authentication.
+Terraform module to create and manage an AWS CloudFront distribution with an S3 origin and (optional) Okta authentication.
 
-As opposed to other MCAF modules, this module does not provide a specific resource, but rather a set of resources that can be used to create a CloudFront distribution with an S3 origin bucket and Okta authentication. It is a very specific use case with a specific set of requirements. 
-
+As opposed to other MCAF modules, this module does not provide a specific resource, but rather a set of resources that can be used to create a CloudFront distributio with an S3 origin bucket and (optional) Okta authentication. It is a very specific use case with a specific set of requirements. 
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements

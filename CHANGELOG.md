@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.0.2](https://github.com/schubergphilis-ep/terraform-aws-mcaf-cloudfront-s3-origin/compare/v4.0.1...v4.0.2) (2026-07-07)
+
+
+### 🐛 Fixes
+
+* migrate MCAF module sources ([#2](https://github.com/schubergphilis-ep/terraform-aws-mcaf-cloudfront-s3-origin/issues/2)) ([ac8916e](https://github.com/schubergphilis-ep/terraform-aws-mcaf-cloudfront-s3-origin/commit/ac8916e5144b8da8486717ece22ff4528a4e06b2))
+
 ## [4.0.1](https://github.com/schubergphilis-ep/terraform-aws-mcaf-cloudfront-s3-origin/compare/v4.0.0...v4.0.1) (2026-06-18)
 
 
@@ -245,4 +252,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.1](https://github.com/schubergphilis-ep/terraform-aws-mcaf-cloudfront-s3-origin/compare/v0.1.0...v0.1.1) (2019-08-07)
 
 ## 0.1.0 (2019-08-06)
-
